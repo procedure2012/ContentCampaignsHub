@@ -1,0 +1,6 @@
+{
+  "name": "monitoring-agent",
+  "description": "Campaign: monitoring-agent",
+  "target": "general",
+  "status": "published"
+}
